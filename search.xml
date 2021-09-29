@@ -3,9 +3,8 @@
   <entry>
     <title>about</title>
     <url>/about/</url>
-    <content><![CDATA[<h1 id="about"><a href="#about" class="headerlink" title="about"></a>about</h1><p>这是about文件</p>
-<p>测试文件</p>
-<p>这里显示关于</p>
+    <content><![CDATA[<h1 id="About"><a href="#About" class="headerlink" title="About"></a>About</h1><p>Github访问路径</p>
+<p><a href="https://w15997402070.github.io/">https://w15997402070.github.io/</a></p>
 ]]></content>
   </entry>
   <entry>
