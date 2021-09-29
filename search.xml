@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>about</title>
+    <url>/about/</url>
+    <content><![CDATA[<h1 id="about"><a href="#about" class="headerlink" title="about"></a>about</h1><p>这是about文件</p>
+<p>测试文件</p>
+<p>这里显示关于</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Tea编辑器</title>
+    <url>/Tea%E7%AE%80%E4%BB%8B/</url>
+    <content><![CDATA[<p>简洁的markdown编辑器</p>
+<span id="more"></span>
+<h2 id="简洁的markdown编辑器"><a href="#简洁的markdown编辑器" class="headerlink" title="简洁的markdown编辑器."></a>简洁的markdown编辑器.</h2><p><strong>实时渲染</strong>,不用分屏</p>
+<p>直接输入````java`就可以看得到代码块,会帮你自动输入结束符.</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+<p>快捷键提示 : </p>
+<p>点击文档右下角有提示</p>
+<p><img src="Image.png"></p>
+<h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2><p>插件商店提供很多插件可用.</p>
+<p><img src="Image1.png"></p>
+<h2 id="快速笔记"><a href="#快速笔记" class="headerlink" title="快速笔记"></a>快速笔记</h2><p>**<em>Ctrl + Shift + 空格</em>**，弹出；再按一次快捷键，关闭。</p>
+<p><img src="Image2.png"></p>
+<h2 id="同步"><a href="#同步" class="headerlink" title="同步"></a>同步</h2><p><img src="Image3.png"></p>
+<h2 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h2><ul>
+<li>文件本地保存的地址不能选择</li>
+</ul>
+]]></content>
+      <categories>
+        <category>工具</category>
+        <category>软件</category>
+      </categories>
+      <tags>
+        <tag>markdown编辑器</tag>
+        <tag>快速笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>chrome阅读插件</title>
+    <url>/chrome%E9%98%85%E8%AF%BB%E6%8F%92%E4%BB%B6/</url>
+    <content><![CDATA[<h1 id="Chrome插件"><a href="#Chrome插件" class="headerlink" title="Chrome插件"></a>Chrome插件</h1><p>Chrome插件记录</p>
+<span id="more"></span>
+
+<h2 id="阅读列表"><a href="#阅读列表" class="headerlink" title="阅读列表"></a>阅读列表</h2><p>阅读列表可以将当前网页加入到列表中留作以后阅读.</p>
+<p><img src="./chrome%E9%98%85%E8%AF%BB%E6%8F%92%E4%BB%B6/image1.png" alt="image-20191129221542572"></p>
+<p><img src="./chrome%E9%98%85%E8%AF%BB%E6%8F%92%E4%BB%B6/image2.png" alt="image-20191129221542572"></p>
+]]></content>
+      <categories>
+        <category>工具</category>
+        <category>chrome插件</category>
+      </categories>
+      <tags>
+        <tag>阅读列表</tag>
+        <tag>以后阅读</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hello-world</title>
+    <url>/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hexo 说明文档</title>
+    <url>/hexo%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<p>Hexo文档</p>
+<span id="more"></span>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<h3 id="常用操作命令"><a href="#常用操作命令" class="headerlink" title="常用操作命令"></a>常用操作命令</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean </span><br><span class="line">hexo generate (若要本地预览就先执行 hexo server)</span><br><span class="line">hexo deploy</span><br><span class="line"></span><br><span class="line">hexo g == hexo generate </span><br><span class="line">hexo d == hexo deploy </span><br><span class="line">hexo s == hexo server </span><br><span class="line">hexo n == hexo new</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>工具</category>
+        <category>文档</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>spring-boot-starter-data-elasticsearch事例</title>
+    <url>/spring-boot-starter-data-elasticsearch%E4%BA%8B%E4%BE%8B/</url>
+    <content><![CDATA[<h1 id="Spring-boot-starter-data-elasticsearch示例"><a href="#Spring-boot-starter-data-elasticsearch示例" class="headerlink" title="Spring-boot-starter-data-elasticsearch示例"></a>Spring-boot-starter-data-elasticsearch示例</h1><p>SpringBoot搭建Elasticsearch</p>
+<span id="more"></span>
+
+<p>版本</p>
+<ul>
+<li>spring-boot : 2.1.10.RELEASE</li>
+<li>elasticsearch : 6.2.2</li>
+</ul>
+<h3 id="1-引入依赖"><a href="#1-引入依赖" class="headerlink" title="1. 引入依赖"></a>1. 引入依赖</h3><p>创建springBoot项目,在pom文件中引入依赖</p>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-starter-data-elasticsearch<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="2-添加配置"><a href="#2-添加配置" class="headerlink" title="2. 添加配置"></a>2. 添加配置</h3><figure class="highlight properties"><table><tr><td class="code"><pre><span class="line"><span class="comment"># elasticsearch设置</span></span><br><span class="line"><span class="meta">spring.data.elasticsearch.cluster-name</span>=<span class="string">elasticsearch</span></span><br><span class="line"><span class="meta">spring.data.elasticsearch.clusternodes</span>=<span class="string">127.0.0.1:9300</span></span><br><span class="line"><span class="meta">spring.data.elasticsearch.repositories.enabled</span>=<span class="string">true</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="3-java代码"><a href="#3-java代码" class="headerlink" title="3. java代码"></a>3. java代码</h3><h3 id="实体"><a href="#实体" class="headerlink" title="实体"></a>实体</h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Document(indexName = &quot;test&quot;,type = &quot;search&quot;)</span></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">SearchModal</span> <span class="keyword">implements</span> <span class="title">Serializable</span> </span>&#123;</span><br><span class="line"></span><br><span class="line">    <span class="meta">@Id</span></span><br><span class="line">    <span class="keyword">private</span> Integer id;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">private</span> String uuid;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">private</span> String name;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="接口"><a href="#接口" class="headerlink" title="接口"></a>接口</h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> com.test.search.model.SearchModal;</span><br><span class="line"><span class="keyword">import</span> org.springframework.data.repository.CrudRepository;</span><br><span class="line"></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">interface</span> <span class="title">SearchRepository</span> <span class="keyword">extends</span> <span class="title">CrudRepository</span>&lt;<span class="title">SearchModal</span>,<span class="title">Integer</span>&gt; </span>&#123;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h3 id="service代码"><a href="#service代码" class="headerlink" title="service代码"></a>service代码</h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">interface</span> <span class="title">SearchService</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">saveAll</span><span class="params">(List&lt;SearchModal&gt; list)</span></span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Service</span></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">SearchServiceImpl</span> <span class="keyword">implements</span> <span class="title">SearchService</span> </span>&#123;</span><br><span class="line"></span><br><span class="line">    <span class="meta">@Autowired</span></span><br><span class="line">    <span class="keyword">private</span> SearchRepository repository;</span><br><span class="line"></span><br><span class="line">    <span class="meta">@Override</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">saveAll</span><span class="params">(List&lt;SearchModal&gt; list)</span> </span>&#123;</span><br><span class="line">        List&lt;SearchModal&gt; searchModalList =(List&lt;SearchModal&gt;)repository.saveAll(list);</span><br><span class="line">        <span class="keyword">return</span> searchModalList.size();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h3 id="Controller代码"><a href="#Controller代码" class="headerlink" title="Controller代码"></a>Controller代码</h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RestController</span></span><br><span class="line"><span class="meta">@RequestMapping(&quot;/demo&quot;)</span></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">DemoController</span> </span>&#123;</span><br><span class="line">    <span class="meta">@RequestMapping(&quot;/save&quot;)</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> String <span class="title">saveList</span><span class="params">()</span></span>&#123;</span><br><span class="line">        List&lt;SearchModal&gt; searchList = getSearchList();</span><br><span class="line">        searchService.saveAll(searchList);</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&quot;test&quot;</span>;</span><br><span class="line">    &#125;</span><br><span class="line">     <span class="function"><span class="keyword">private</span> List&lt;SearchModal&gt; <span class="title">getSearchList</span><span class="params">()</span></span>&#123;</span><br><span class="line">        List&lt;SearchModal&gt; list = <span class="keyword">new</span> ArrayList&lt;&gt;();</span><br><span class="line">        SearchModal search = <span class="keyword">new</span> SearchModal();</span><br><span class="line">        search.setId(<span class="number">1</span>);</span><br><span class="line">        search.setName(<span class="string">&quot;test1&quot;</span>);</span><br><span class="line">        search.setUuid(UUID.randomUUID().toString().replaceAll(<span class="string">&quot;-&quot;</span>,<span class="string">&quot;&quot;</span>));</span><br><span class="line">        list.add(search);</span><br><span class="line">         SearchModal search2 = <span class="keyword">new</span> SearchModal();</span><br><span class="line">        search2.setId(<span class="number">2</span>);</span><br><span class="line">        search2.setName(<span class="string">&quot;test2&quot;</span>);</span><br><span class="line">        search2.setUuid(UUID.randomUUID().toString().replaceAll(<span class="string">&quot;-&quot;</span>,<span class="string">&quot;&quot;</span>));</span><br><span class="line">        list.add(search);</span><br><span class="line">        log.info(JSON.toJSONString(list));</span><br><span class="line">        <span class="keyword">return</span> list;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>SpringBoot</category>
+      </categories>
+      <tags>
+        <tag>SpringBoot</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo 安装文档</title>
+    <url>/hexo%E7%AE%80%E4%BB%8B/</url>
+    <content><![CDATA[<h1 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h1><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><ol>
+<li><p>先安装git和node.js</p>
+</li>
+<li><h3 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h3><p><code> npm install -g hexo-cli</code></p>
+<p><code> npm install hexo</code></p>
+</li>
+<li><p>可以使用命令</p>
+<p> npx hexo <command> </p>
+</li>
+<li><p>初始化</p>
+<p>创建文件夹 例如 <code>D:\data\hexo</code></p>
+<p>进入 <code>&quot;D:\data\hexo&quot;</code>打开<code>git bash here</code>运行 <code> hexo init hexo</code></p>
+</li>
+<li><p>启动</p>
+<p>在初始化的文件夹安装</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> 安装服务</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-server --save</span></span><br><span class="line"><span class="meta">#</span><span class="bash"> 启动 会自动监控文件更新</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo server</span></span><br></pre></td></tr></table></figure>
+
+
+
+<p>运行<code>hexo server</code>然后浏览器输入<code>127.0.0.1:4000</code>就可以看到页面了</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> 指定端口启动</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo server -p 5000</span></span><br><span class="line"><span class="meta"></span></span><br><span class="line"><span class="meta">#</span><span class="bash"> 静态模式启动不会监控文件变化</span> </span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo server -s</span></span><br></pre></td></tr></table></figure></li>
+<li><p>发布</p>
+<p> 生成静态文件</p>
+ <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> hexo generate</span></span><br><span class="line"><span class="meta">#</span><span class="bash"> 生成静态文件并监控文件变动</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo generate --watch</span></span><br></pre></td></tr></table></figure></li>
+<li><p>部署</p>
+<p> 您可执行下列的其中一个命令，让 Hexo 在生成完毕后自动部署网站，两个命令的作用是相同的。</p>
+ <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> hexo generate --deploy</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo deploy --generate</span></span><br></pre></td></tr></table></figure></li>
+<li><p>上面发布和部署可以简化成一个命令</p>
+ <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> hexo g -d</span></span><br><span class="line"><span class="meta">#</span><span class="bash"> 或者</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo d -g</span></span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<h2 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h2><h3 id="统一位置存放文件"><a href="#统一位置存放文件" class="headerlink" title="统一位置存放文件"></a>统一位置存放文件</h3><p>在source目录下建一个images文件夹,将图片放到images文件夹中</p>
+<p>比如放一个 图标 avatar.png 到images中就可以在配置文件中使用</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">avatar:</span></span><br><span class="line">  <span class="comment"># 配置左下角的小头像</span></span><br><span class="line">  <span class="attr">url:</span> <span class="string">/images/avatar.png</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="相对路径"><a href="#相对路径" class="headerlink" title="相对路径"></a>相对路径</h3><p>图片除了可以放在统一的<code>images</code>文件夹中，还可以放在文章自己的目录中。文章的目录可以通过配置<code>_config.yml</code>来生成。</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># _config.yml</span></span><br><span class="line"><span class="attr">post_asset_folder:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+
+<p>将<code>_config.yml</code>文件中的配置项<code>post_asset_folder</code>设为<code>true</code>后，执行命令<code>$ hexo new post_name</code>，在<code>source/_posts</code>中会生成文章<code>post_name.md</code>和同名文件夹<code>post_name</code>。将图片资源放在<code>post_name</code>中，文章就可以使用相对路径引用图片资源了。</p>
+<figure class="highlight md"><table><tr><td class="code"><pre><span class="line"><span class="section"># <span class="emphasis">_posts/post_</span>name/image.jpg</span></span><br><span class="line">![](image.jpg)</span><br></pre></td></tr></table></figure>
+
+<p>上述是markdown的引用方式，图片只能在文章中显示，但无法在首页中正常显示。</p>
+<p>如果希望图片在文章和首页中同时显示，可以使用标签插件语法。</p>
+<figure class="highlight md"><table><tr><td class="code"><pre><span class="line"><span class="section">#<span class="emphasis">_posts/post_</span>name/image.jpg</span></span><br><span class="line">&#123;% asset<span class="emphasis">_img image.jpg This is an image %&#125;</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="直接引用网络图片"><a href="#直接引用网络图片" class="headerlink" title="直接引用网络图片"></a>直接引用网络图片</h3><p>可以使用typro自动上传文件功能</p>
+<p>文件 -&gt; 偏好设置 -&gt; 图像 </p>
+<p>插入图片下拉选项中选择上传图片</p>
+<p>上传服务中选择PicGO</p>
+<p><img src="https://raw.githubusercontent.com/w15997402070/images/main/note/image-20210930000450592.png" alt="image-20210930000450592"></p>
+<p>PicGo中的设置,以上传到GitHub为例</p>
+<p><img src="image-20210930000609123.png" alt="image-20210930000609123"></p>
+<ol>
+<li><p>设置仓库,在github 中创建一个仓库</p>
+</li>
+<li><p>设定分支直接以main分支也可以</p>
+</li>
+<li><p>设定token,在GitHub中生成token</p>
+<p>github中 <code>Settings -&gt; Developer settings -&gt; Personal access tokens</code>点击<code>Generate new token</code>然后把token复制到这里就可以了</p>
+</li>
+<li><p>设置存储路径,可以不设置,默认就在仓库主目录中,如果要设定目录一定要以<code>/</code>结尾,不然上传失败</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>工具</category>
+        <category>文档</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>springBoot集成Swagger2</title>
+    <url>/springBoot%E9%9B%86%E6%88%90Swagger2/</url>
+    <content><![CDATA[<h1 id="SpringBoot-集成swagger2"><a href="#SpringBoot-集成swagger2" class="headerlink" title="SpringBoot 集成swagger2"></a>SpringBoot 集成swagger2</h1><span id="more"></span>
+
+<ol>
+<li><p>在springBoot 项目中 添加依赖</p>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>io.springfox<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>springfox-swagger2<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">version</span>&gt;</span>2.9.2<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br></pre></td></tr></table></figure></li>
+<li><p>添加配置文件</p>
+<p>创建java配置<code>SwaggerConfig</code></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> org.springframework.context.annotation.Bean;</span><br><span class="line"><span class="keyword">import</span> org.springframework.context.annotation.Configuration;</span><br><span class="line"><span class="keyword">import</span> springfox.documentation.builders.ApiInfoBuilder;</span><br><span class="line"><span class="keyword">import</span> springfox.documentation.builders.PathSelectors;</span><br><span class="line"><span class="keyword">import</span> springfox.documentation.builders.RequestHandlerSelectors;</span><br><span class="line"><span class="keyword">import</span> springfox.documentation.service.ApiInfo;</span><br><span class="line"><span class="keyword">import</span> springfox.documentation.spi.DocumentationType;</span><br><span class="line"><span class="keyword">import</span> springfox.documentation.spring.web.plugins.Docket;</span><br><span class="line"><span class="keyword">import</span> springfox.documentation.swagger2.annotations.EnableSwagger2;</span><br><span class="line"></span><br><span class="line"><span class="meta">@Configuration</span></span><br><span class="line"><span class="meta">@EnableSwagger2</span></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">SwaggerConfig</span> </span>&#123;</span><br><span class="line"></span><br><span class="line">    <span class="meta">@Bean</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> Docket <span class="title">createRestApi</span><span class="params">()</span></span>&#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="keyword">new</span> Docket(DocumentationType.SWAGGER_2)</span><br><span class="line">                .apiInfo(getApiInfo())</span><br><span class="line">                .select()</span><br><span class="line">                .apis(RequestHandlerSelectors.any())</span><br><span class="line">                .paths(PathSelectors.any())</span><br><span class="line">                .build();</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">private</span> ApiInfo <span class="title">getApiInfo</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="keyword">new</span> ApiInfoBuilder().build();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>启动项目访问<a href="http://localhost:8080/v2/api-docs">http://localhost:8080/v2/api-docs</a> 就可以看到json数据了</p>
+<figure class="highlight json"><table><tr><td class="code"><pre><span class="line">&#123;<span class="attr">&quot;swagger&quot;</span>:<span class="string">&quot;2.0&quot;</span>,<span class="attr">&quot;info&quot;</span>:&#123;&#125;,<span class="attr">&quot;host&quot;</span>:<span class="string">&quot;localhost:8080&quot;</span>,<span class="attr">&quot;basePath&quot;</span>:<span class="string">&quot;/&quot;</span>,<span class="attr">&quot;tags&quot;</span>:[&#123;<span class="attr">&quot;name&quot;</span>:<span class="string">&quot;basic-error-controller&quot;</span>,<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Basic Error Controller&quot;</span>&#125;,&#123;<span class="attr">&quot;name&quot;</span>:<span class="string">&quot;hello-controller&quot;</span>,<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Hello Controller&quot;</span>&#125;],<span class="attr">&quot;paths&quot;</span>:&#123;<span class="attr">&quot;/error&quot;</span>:&#123;<span class="attr">&quot;get&quot;</span>:&#123;<span class="attr">&quot;tags&quot;</span>:[<span class="string">&quot;basic-error-controller&quot;</span>],<span class="attr">&quot;summary&quot;</span>:<span class="string">&quot;error&quot;</span>,<span class="attr">&quot;operationId&quot;</span>:<span class="string">&quot;errorUsingGET&quot;</span>,<span class="attr">&quot;produces&quot;</span>:[<span class="string">&quot;*/*&quot;</span>],<span class="attr">&quot;responses&quot;</span>:&#123;<span class="attr">&quot;200&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;OK&quot;</span>,<span class="attr">&quot;schema&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>,<span class="attr">&quot;additionalProperties&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>&#125;&#125;&#125;,<span class="attr">&quot;401&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Unauthorized&quot;</span>&#125;,<span class="attr">&quot;403&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Forbidden&quot;</span>&#125;,<span class="attr">&quot;404&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Not Found&quot;</span>&#125;&#125;,<span class="attr">&quot;deprecated&quot;</span>:<span class="literal">false</span>&#125;,<span class="attr">&quot;head&quot;</span>:&#123;<span class="attr">&quot;tags&quot;</span>:[<span class="string">&quot;basic-error-controller&quot;</span>],<span class="attr">&quot;summary&quot;</span>:<span class="string">&quot;error&quot;</span>,<span class="attr">&quot;operationId&quot;</span>:<span class="string">&quot;errorUsingHEAD&quot;</span>,<span class="attr">&quot;consumes&quot;</span>:[<span class="string">&quot;application/json&quot;</span>],<span class="attr">&quot;produces&quot;</span>:[<span class="string">&quot;*/*&quot;</span>],<span class="attr">&quot;responses&quot;</span>:&#123;<span class="attr">&quot;200&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;OK&quot;</span>,<span class="attr">&quot;schema&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>,<span class="attr">&quot;additionalProperties&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>&#125;&#125;&#125;,<span class="attr">&quot;204&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;No Content&quot;</span>&#125;,<span class="attr">&quot;401&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Unauthorized&quot;</span>&#125;,<span class="attr">&quot;403&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Forbidden&quot;</span>&#125;&#125;,<span class="attr">&quot;deprecated&quot;</span>:<span class="literal">false</span>&#125;,<span class="attr">&quot;post&quot;</span>:&#123;<span class="attr">&quot;tags&quot;</span>:[<span class="string">&quot;basic-error-controller&quot;</span>],<span class="attr">&quot;summary&quot;</span>:<span class="string">&quot;error&quot;</span>,<span class="attr">&quot;operationId&quot;</span>:<span class="string">&quot;errorUsingPOST&quot;</span>,<span class="attr">&quot;consumes&quot;</span>:[<span class="string">&quot;application/json&quot;</span>],<span class="attr">&quot;produces&quot;</span>:[<span class="string">&quot;*/*&quot;</span>],<span class="attr">&quot;responses&quot;</span>:&#123;<span class="attr">&quot;200&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;OK&quot;</span>,<span class="attr">&quot;schema&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>,<span class="attr">&quot;additionalProperties&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>&#125;&#125;&#125;,<span class="attr">&quot;201&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Created&quot;</span>&#125;,<span class="attr">&quot;401&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Unauthorized&quot;</span>&#125;,<span class="attr">&quot;403&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Forbidden&quot;</span>&#125;,<span class="attr">&quot;404&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Not Found&quot;</span>&#125;&#125;,<span class="attr">&quot;deprecated&quot;</span>:<span class="literal">false</span>&#125;,<span class="attr">&quot;put&quot;</span>:&#123;<span class="attr">&quot;tags&quot;</span>:[<span class="string">&quot;basic-error-controller&quot;</span>],<span class="attr">&quot;summary&quot;</span>:<span class="string">&quot;error&quot;</span>,<span class="attr">&quot;operationId&quot;</span>:<span class="string">&quot;errorUsingPUT&quot;</span>,<span class="attr">&quot;consumes&quot;</span>:[<span class="string">&quot;application/json&quot;</span>],<span class="attr">&quot;produces&quot;</span>:[<span class="string">&quot;*/*&quot;</span>],<span class="attr">&quot;responses&quot;</span>:&#123;<span class="attr">&quot;200&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;OK&quot;</span>,<span class="attr">&quot;schema&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>,<span class="attr">&quot;additionalProperties&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>&#125;&#125;&#125;,<span class="attr">&quot;201&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Created&quot;</span>&#125;,<span class="attr">&quot;401&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Unauthorized&quot;</span>&#125;,<span class="attr">&quot;403&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Forbidden&quot;</span>&#125;,<span class="attr">&quot;404&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Not Found&quot;</span>&#125;&#125;,<span class="attr">&quot;deprecated&quot;</span>:<span class="literal">false</span>&#125;,<span class="attr">&quot;delete&quot;</span>:&#123;<span class="attr">&quot;tags&quot;</span>:[<span class="string">&quot;basic-error-controller&quot;</span>],<span class="attr">&quot;summary&quot;</span>:<span class="string">&quot;error&quot;</span>,<span class="attr">&quot;operationId&quot;</span>:<span class="string">&quot;errorUsingDELETE&quot;</span>,<span class="attr">&quot;produces&quot;</span>:[<span class="string">&quot;*/*&quot;</span>],<span class="attr">&quot;responses&quot;</span>:&#123;<span class="attr">&quot;200&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;OK&quot;</span>,<span class="attr">&quot;schema&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>,<span class="attr">&quot;additionalProperties&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>&#125;&#125;&#125;,<span class="attr">&quot;204&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;No Content&quot;</span>&#125;,<span class="attr">&quot;401&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Unauthorized&quot;</span>&#125;,<span class="attr">&quot;403&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Forbidden&quot;</span>&#125;&#125;,<span class="attr">&quot;deprecated&quot;</span>:<span class="literal">false</span>&#125;,<span class="attr">&quot;options&quot;</span>:&#123;<span class="attr">&quot;tags&quot;</span>:[<span class="string">&quot;basic-error-controller&quot;</span>],<span class="attr">&quot;summary&quot;</span>:<span class="string">&quot;error&quot;</span>,<span class="attr">&quot;operationId&quot;</span>:<span class="string">&quot;errorUsingOPTIONS&quot;</span>,<span class="attr">&quot;consumes&quot;</span>:[<span class="string">&quot;application/json&quot;</span>],<span class="attr">&quot;produces&quot;</span>:[<span class="string">&quot;*/*&quot;</span>],<span class="attr">&quot;responses&quot;</span>:&#123;<span class="attr">&quot;200&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;OK&quot;</span>,<span class="attr">&quot;schema&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>,<span class="attr">&quot;additionalProperties&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>&#125;&#125;&#125;,<span class="attr">&quot;204&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;No Content&quot;</span>&#125;,<span class="attr">&quot;401&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Unauthorized&quot;</span>&#125;,<span class="attr">&quot;403&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Forbidden&quot;</span>&#125;&#125;,<span class="attr">&quot;deprecated&quot;</span>:<span class="literal">false</span>&#125;,<span class="attr">&quot;patch&quot;</span>:&#123;<span class="attr">&quot;tags&quot;</span>:[<span class="string">&quot;basic-error-controller&quot;</span>],<span class="attr">&quot;summary&quot;</span>:<span class="string">&quot;error&quot;</span>,<span class="attr">&quot;operationId&quot;</span>:<span class="string">&quot;errorUsingPATCH&quot;</span>,<span class="attr">&quot;consumes&quot;</span>:[<span class="string">&quot;application/json&quot;</span>],<span class="attr">&quot;produces&quot;</span>:[<span class="string">&quot;*/*&quot;</span>],<span class="attr">&quot;responses&quot;</span>:&#123;<span class="attr">&quot;200&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;OK&quot;</span>,<span class="attr">&quot;schema&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>,<span class="attr">&quot;additionalProperties&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>&#125;&#125;&#125;,<span class="attr">&quot;204&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;No Content&quot;</span>&#125;,<span class="attr">&quot;401&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Unauthorized&quot;</span>&#125;,<span class="attr">&quot;403&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Forbidden&quot;</span>&#125;&#125;,<span class="attr">&quot;deprecated&quot;</span>:<span class="literal">false</span>&#125;&#125;,<span class="attr">&quot;/hello&quot;</span>:&#123;<span class="attr">&quot;get&quot;</span>:&#123;<span class="attr">&quot;tags&quot;</span>:[<span class="string">&quot;hello-controller&quot;</span>],<span class="attr">&quot;summary&quot;</span>:<span class="string">&quot;hello&quot;</span>,<span class="attr">&quot;operationId&quot;</span>:<span class="string">&quot;helloUsingGET&quot;</span>,<span class="attr">&quot;produces&quot;</span>:[<span class="string">&quot;*/*&quot;</span>],<span class="attr">&quot;responses&quot;</span>:&#123;<span class="attr">&quot;200&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;OK&quot;</span>,<span class="attr">&quot;schema&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;string&quot;</span>&#125;&#125;,<span class="attr">&quot;401&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Unauthorized&quot;</span>&#125;,<span class="attr">&quot;403&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Forbidden&quot;</span>&#125;,<span class="attr">&quot;404&quot;</span>:&#123;<span class="attr">&quot;description&quot;</span>:<span class="string">&quot;Not Found&quot;</span>&#125;&#125;,<span class="attr">&quot;deprecated&quot;</span>:<span class="literal">false</span>&#125;&#125;&#125;,<span class="attr">&quot;definitions&quot;</span>:&#123;<span class="attr">&quot;ModelAndView&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>,<span class="attr">&quot;properties&quot;</span>:&#123;<span class="attr">&quot;empty&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;boolean&quot;</span>&#125;,<span class="attr">&quot;model&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>&#125;,<span class="attr">&quot;modelMap&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>,<span class="attr">&quot;additionalProperties&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>&#125;&#125;,<span class="attr">&quot;reference&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;boolean&quot;</span>&#125;,<span class="attr">&quot;status&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;string&quot;</span>,<span class="attr">&quot;enum&quot;</span>:[<span class="string">&quot;100 CONTINUE&quot;</span>,<span class="string">&quot;101 SWITCHING_PROTOCOLS&quot;</span>,<span class="string">&quot;102 PROCESSING&quot;</span>,<span class="string">&quot;103 CHECKPOINT&quot;</span>,<span class="string">&quot;200 OK&quot;</span>,<span class="string">&quot;201 CREATED&quot;</span>,<span class="string">&quot;202 ACCEPTED&quot;</span>,<span class="string">&quot;203 NON_AUTHORITATIVE_INFORMATION&quot;</span>,<span class="string">&quot;204 NO_CONTENT&quot;</span>,<span class="string">&quot;205 RESET_CONTENT&quot;</span>,<span class="string">&quot;206 PARTIAL_CONTENT&quot;</span>,<span class="string">&quot;207 MULTI_STATUS&quot;</span>,<span class="string">&quot;208 ALREADY_REPORTED&quot;</span>,<span class="string">&quot;226 IM_USED&quot;</span>,<span class="string">&quot;300 MULTIPLE_CHOICES&quot;</span>,<span class="string">&quot;301 MOVED_PERMANENTLY&quot;</span>,<span class="string">&quot;302 FOUND&quot;</span>,<span class="string">&quot;302 MOVED_TEMPORARILY&quot;</span>,<span class="string">&quot;303 SEE_OTHER&quot;</span>,<span class="string">&quot;304 NOT_MODIFIED&quot;</span>,<span class="string">&quot;305 USE_PROXY&quot;</span>,<span class="string">&quot;307 TEMPORARY_REDIRECT&quot;</span>,<span class="string">&quot;308 PERMANENT_REDIRECT&quot;</span>,<span class="string">&quot;400 BAD_REQUEST&quot;</span>,<span class="string">&quot;401 UNAUTHORIZED&quot;</span>,<span class="string">&quot;402 PAYMENT_REQUIRED&quot;</span>,<span class="string">&quot;403 FORBIDDEN&quot;</span>,<span class="string">&quot;404 NOT_FOUND&quot;</span>,<span class="string">&quot;405 METHOD_NOT_ALLOWED&quot;</span>,<span class="string">&quot;406 NOT_ACCEPTABLE&quot;</span>,<span class="string">&quot;407 PROXY_AUTHENTICATION_REQUIRED&quot;</span>,<span class="string">&quot;408 REQUEST_TIMEOUT&quot;</span>,<span class="string">&quot;409 CONFLICT&quot;</span>,<span class="string">&quot;410 GONE&quot;</span>,<span class="string">&quot;411 LENGTH_REQUIRED&quot;</span>,<span class="string">&quot;412 PRECONDITION_FAILED&quot;</span>,<span class="string">&quot;413 PAYLOAD_TOO_LARGE&quot;</span>,<span class="string">&quot;413 REQUEST_ENTITY_TOO_LARGE&quot;</span>,<span class="string">&quot;414 URI_TOO_LONG&quot;</span>,<span class="string">&quot;414 REQUEST_URI_TOO_LONG&quot;</span>,<span class="string">&quot;415 UNSUPPORTED_MEDIA_TYPE&quot;</span>,<span class="string">&quot;416 REQUESTED_RANGE_NOT_SATISFIABLE&quot;</span>,<span class="string">&quot;417 EXPECTATION_FAILED&quot;</span>,<span class="string">&quot;418 I_AM_A_TEAPOT&quot;</span>,<span class="string">&quot;419 INSUFFICIENT_SPACE_ON_RESOURCE&quot;</span>,<span class="string">&quot;420 METHOD_FAILURE&quot;</span>,<span class="string">&quot;421 DESTINATION_LOCKED&quot;</span>,<span class="string">&quot;422 UNPROCESSABLE_ENTITY&quot;</span>,<span class="string">&quot;423 LOCKED&quot;</span>,<span class="string">&quot;424 FAILED_DEPENDENCY&quot;</span>,<span class="string">&quot;425 TOO_EARLY&quot;</span>,<span class="string">&quot;426 UPGRADE_REQUIRED&quot;</span>,<span class="string">&quot;428 PRECONDITION_REQUIRED&quot;</span>,<span class="string">&quot;429 TOO_MANY_REQUESTS&quot;</span>,<span class="string">&quot;431 REQUEST_HEADER_FIELDS_TOO_LARGE&quot;</span>,<span class="string">&quot;451 UNAVAILABLE_FOR_LEGAL_REASONS&quot;</span>,<span class="string">&quot;500 INTERNAL_SERVER_ERROR&quot;</span>,<span class="string">&quot;501 NOT_IMPLEMENTED&quot;</span>,<span class="string">&quot;502 BAD_GATEWAY&quot;</span>,<span class="string">&quot;503 SERVICE_UNAVAILABLE&quot;</span>,<span class="string">&quot;504 GATEWAY_TIMEOUT&quot;</span>,<span class="string">&quot;505 HTTP_VERSION_NOT_SUPPORTED&quot;</span>,<span class="string">&quot;506 VARIANT_ALSO_NEGOTIATES&quot;</span>,<span class="string">&quot;507 INSUFFICIENT_STORAGE&quot;</span>,<span class="string">&quot;508 LOOP_DETECTED&quot;</span>,<span class="string">&quot;509 BANDWIDTH_LIMIT_EXCEEDED&quot;</span>,<span class="string">&quot;510 NOT_EXTENDED&quot;</span>,<span class="string">&quot;511 NETWORK_AUTHENTICATION_REQUIRED&quot;</span>]&#125;,<span class="attr">&quot;view&quot;</span>:&#123;<span class="attr">&quot;$ref&quot;</span>:<span class="string">&quot;#/definitions/View&quot;</span>&#125;,<span class="attr">&quot;viewName&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;string&quot;</span>&#125;&#125;,<span class="attr">&quot;title&quot;</span>:<span class="string">&quot;ModelAndView&quot;</span>&#125;,<span class="attr">&quot;View&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;object&quot;</span>,<span class="attr">&quot;properties&quot;</span>:&#123;<span class="attr">&quot;contentType&quot;</span>:&#123;<span class="attr">&quot;type&quot;</span>:<span class="string">&quot;string&quot;</span>&#125;&#125;,<span class="attr">&quot;title&quot;</span>:<span class="string">&quot;View&quot;</span>&#125;&#125;&#125;</span><br></pre></td></tr></table></figure></li>
+<li><p>添加UI</p>
+<p>先添加UI的依赖</p>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>io.springfox<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>springfox-swagger-ui<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">version</span>&gt;</span>2.9.2<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p>再重新启动项目访问<code>http://localhost:8080/swagger-ui.html</code> 就可以看到界面了</p>
+<p><img src="https://raw.githubusercontent.com/w15997402070/images/main/note/image-20191228214009981.png" alt="image-20191228214009981"></p>
+</li>
+<li><p>测试接口</p>
+<p>点击接口下面的<code>try it out</code></p>
+<p><img src="https://raw.githubusercontent.com/w15997402070/images/main/note/image-20200101211311001.png" alt="image-20200101211311001"></p>
+<p>可以设置参数</p>
+<p><img src="https://raw.githubusercontent.com/w15997402070/images/main/note/image-20200101211353006.png" alt="image-20200101211353006"></p>
+<p>点击执行<code>execute</code>按钮,可以看到返回结果</p>
+<p><img src="https://raw.githubusercontent.com/w15997402070/images/main/note/image-20200101211441157.png" alt="image-20200101211441157"></p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>SpringBoot</category>
+      </categories>
+      <tags>
+        <tag>SpringBoot</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>springBoot配置druid数据连接池.md</title>
+    <url>/springBoot%E9%85%8D%E7%BD%AEdruid%E6%95%B0%E6%8D%AE%E8%BF%9E%E6%8E%A5%E6%B1%A0/</url>
+    <content><![CDATA[<h1 id="SpringBoot-配置druid数据库连接池"><a href="#SpringBoot-配置druid数据库连接池" class="headerlink" title="SpringBoot 配置druid数据库连接池"></a>SpringBoot 配置druid数据库连接池</h1><span id="more"></span>
+
+<h2 id="1-添加依赖"><a href="#1-添加依赖" class="headerlink" title="1.添加依赖"></a>1.添加依赖</h2><figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>com.alibaba<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>druid-spring-boot-starter<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">version</span>&gt;</span>1.1.17<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="2-添加数据库配置"><a href="#2-添加数据库配置" class="headerlink" title="2.添加数据库配置"></a>2.添加数据库配置</h2><figure class="highlight properties"><table><tr><td class="code"><pre><span class="line"><span class="meta">spring.datasource.druid.url</span>= <span class="string"># 或spring.datasource.url=</span></span><br><span class="line"><span class="meta">spring.datasource.druid.username</span>= <span class="string"># 或spring.datasource.username=</span></span><br><span class="line"><span class="meta">spring.datasource.druid.password</span>= <span class="string"># 或spring.datasource.password=</span></span><br><span class="line"><span class="meta">spring.datasource.druid.driver-class-name</span>= <span class="string">#或 spring.datasource.driver-class-name=</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="3-连接池配置"><a href="#3-连接池配置" class="headerlink" title="3.连接池配置"></a>3.连接池配置</h2><figure class="highlight properties"><table><tr><td class="code"><pre><span class="line"><span class="meta">spring.datasource.druid.initial-size</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.max-active</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.min-idle</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.max-wait</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.pool-prepared-statements</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.max-pool-prepared-statement-per-connection-size</span>= <span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.max-open-prepared-statements</span>= <span class="string">#和上面的等价</span></span><br><span class="line"><span class="meta">spring.datasource.druid.validation-query</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.validation-query-timeout</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.test-on-borrow</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.test-on-return</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.test-while-idle</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.time-between-eviction-runs-millis</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.min-evictable-idle-time-millis</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.max-evictable-idle-time-millis</span>=<span class="string"></span></span><br><span class="line"><span class="meta">spring.datasource.druid.filters</span>= <span class="string">#配置多个英文逗号分隔</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="创建数据源"><a href="#创建数据源" class="headerlink" title="创建数据源"></a>创建数据源</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Configuration</span></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">DataSourceConfig</span> </span>&#123;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">private</span> Logger logger = LoggerFactory.getLogger(<span class="keyword">this</span>.getClass());</span><br><span class="line"></span><br><span class="line">    <span class="meta">@Bean(name = &quot;dataSource&quot;)</span></span><br><span class="line">    <span class="meta">@Primary</span></span><br><span class="line">    <span class="meta">@ConfigurationProperties(prefix = &quot;spring.datasource.druid&quot;)</span> <span class="comment">// application.properteis中对应属性的前缀</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> DataSource <span class="title">dataSource1</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        <span class="comment">//注意这里</span></span><br><span class="line">        <span class="keyword">return</span> DruidDataSourceBuilder.create().build();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="meta">@Bean</span></span><br><span class="line">    <span class="meta">@Primary</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> PlatformTransactionManager <span class="title">prodTransactionManager</span><span class="params">(<span class="meta">@Qualifier(&quot;dataSource&quot;)</span> DataSource prodDataSource)</span> </span>&#123;</span><br><span class="line">        logger.info(<span class="string">&quot;dataSource : &#123;&#125;&quot;</span>,prodDataSource);</span><br><span class="line">        <span class="keyword">return</span> <span class="keyword">new</span> DataSourceTransactionManager(prodDataSource);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://github.com/alibaba/druid/tree/master/druid-spring-boot-starter">参考文档</a></p>
+]]></content>
+      <categories>
+        <category>SpringBoot</category>
+      </categories>
+      <tags>
+        <tag>SpringBoot</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>springBoot集成admin管理页面</title>
+    <url>/springBoot%E9%9B%86%E6%88%90admin%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2/</url>
+    <content><![CDATA[<h1 id="Spring-boot-admin-管理"><a href="#Spring-boot-admin-管理" class="headerlink" title="Spring-boot-admin 管理"></a>Spring-boot-admin 管理</h1><p>Spring Boot Admin是一个管理和监控Spring Boot应用程序的开源监控软件，针对spring-boot的actuator接口进行UI美化并封装，可以在管理界面中浏览所有被监控spring-boot项目的基本信息，详细的Health信息、内存信息、JVM信息、垃圾回收信息、各种配置信息（比如数据源、缓存列表和命中率）等，还可以直接修改logger的level，Spring Boot Admin提供的丰富详细的监控信息给Spring Boot应用的监控、维护和优化都带来了极大的便利</p>
+<span id="more"></span>
+
+<h2 id="1-创建服务端项目"><a href="#1-创建服务端项目" class="headerlink" title="1. 创建服务端项目"></a>1. 创建服务端项目</h2><p>创建一个maven项目,添加Spring Boot Admin依赖</p>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-starter<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>de.codecentric<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-admin-server<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">version</span>&gt;</span>2.2.1<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>de.codecentric<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-admin-server-ui<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">version</span>&gt;</span>2.2.1<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="2-添加配置"><a href="#2-添加配置" class="headerlink" title="2. 添加配置"></a>2. 添加配置</h2><figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">server:</span></span><br><span class="line">  <span class="attr">port:</span> <span class="number">8083</span></span><br><span class="line"><span class="attr">spring:</span></span><br><span class="line">  <span class="attr">application:</span></span><br><span class="line">    <span class="attr">name:</span> <span class="string">monitor</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="3-添加启动注解"><a href="#3-添加启动注解" class="headerlink" title="3. 添加启动注解"></a>3. 添加启动注解</h2><p>在启动类中添加使用spring-boot-admin监控的<code>@EnableAdminServer</code>注解</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@SpringBootApplication</span></span><br><span class="line"><span class="meta">@EnableAdminServer</span> <span class="comment">//添加这个注解</span></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">MonitorApplication</span> </span>&#123;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">        SpringApplication.run(MonitorApplication.class, args);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="4-启动项目"><a href="#4-启动项目" class="headerlink" title="4. 启动项目"></a>4. 启动项目</h2><p>访问<code>http://localhost:8083/</code>就可以看到监控页面</p>
+<p><img src="image-20200101212312657.png"></p>
+<h2 id="5-添加需要监控的项目"><a href="#5-添加需要监控的项目" class="headerlink" title="5. 添加需要监控的项目"></a>5. 添加需要监控的项目</h2><h3 id="在需要被监控的项目中添加依赖"><a href="#在需要被监控的项目中添加依赖" class="headerlink" title="在需要被监控的项目中添加依赖"></a>在需要被监控的项目中添加依赖</h3><p>例如要监控 <code>admin</code>项目,就在<code>admin</code>项目的pom文件中添加</p>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"> <span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">     <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>de.codecentric<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">     <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-admin-starter-client<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">     <span class="tag">&lt;<span class="name">version</span>&gt;</span>2.2.1<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="添加配置"><a href="#添加配置" class="headerlink" title="添加配置"></a>添加配置</h3><p><code>url</code>为服务端也就是<code>monitor</code>项目的地址</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">spring:</span></span><br><span class="line">  <span class="attr">application:</span></span><br><span class="line">    <span class="attr">name:</span> <span class="string">admin</span></span><br><span class="line">  <span class="attr">boot:</span></span><br><span class="line">    <span class="attr">admin:</span></span><br><span class="line">      <span class="attr">client:</span></span><br><span class="line">        <span class="attr">url:</span> <span class="string">&quot;http://localhost:8083&quot;</span> </span><br><span class="line"><span class="attr">management:</span></span><br><span class="line">  <span class="attr">endpoints:</span></span><br><span class="line">    <span class="attr">web:</span></span><br><span class="line">      <span class="attr">exposure:</span></span><br><span class="line">        <span class="attr">include:</span> <span class="string">&quot;*&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>再启动<code>admin</code>项目就可以看到有一个项目在线了.可以点进去查看更多的信息</p>
+<p><img src="image-20200101212929814.png"></p>
+]]></content>
+      <categories>
+        <category>SpringBoot</category>
+      </categories>
+      <tags>
+        <tag>SpringBoot</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>同步文件夹</title>
+    <url>/%E5%90%8C%E6%AD%A5%E6%96%87%E4%BB%B6%E5%A4%B9/</url>
+    <content><![CDATA[<h1 id="同步文件夹"><a href="#同步文件夹" class="headerlink" title="同步文件夹"></a>同步文件夹</h1><p>两个文件夹同步操作</p>
+<span id="more"></span>
+
+<p>打开项目<code>D:\idea\springboot-test</code> <code>notepad</code>模块,在<code>com.wang.notepad.task</code>包下有<code>DirSyncTask</code>文件</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment">* 比较两个文件夹得数据,将源文件夹数据同步到目标文件夹</span></span><br><span class="line"><span class="comment">* 1.通过文件名和文件大小判断文件是否变化,文件大的文件会覆盖文件小的文件</span></span><br><span class="line"><span class="comment">* 2.文件名开头为 new- 文件的表示为新文件,会在目标文件夹创建,创建完之后修改源文件的文件名</span></span><br><span class="line"><span class="comment">* 3. 文件结尾为-1的文件不会同步</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">syncHexoNote</span><span class="params">()</span></span>&#123;</span><br><span class="line">    </span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment">* 设置hexo文件模板包括title,date,categories,tags</span></span><br><span class="line"><span class="comment">* 头部模板位置 D:\data\notes\wiki\home\hexo\template.ftl</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">setFileTitle</span><span class="params">()</span></span>&#123;</span><br><span class="line">    </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>如何阅读一本书</title>
+    <url>/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>阅读</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>视频加速器</title>
+    <url>/%E8%A7%86%E9%A2%91%E5%8A%A0%E9%80%9F%E5%99%A8/</url>
+    <content><![CDATA[<h1 id="视频加速"><a href="#视频加速" class="headerlink" title="视频加速"></a>视频加速</h1><p>百度云网页版视频加速</p>
+<span id="more"></span>
+
+<h3 id="百度云视频加速器"><a href="#百度云视频加速器" class="headerlink" title="百度云视频加速器"></a>百度云视频加速器</h3><p><code>百度视频加速</code> </p>
+<p><img src="https://raw.githubusercontent.com/w15997402070/images/main/note/image-20191201131204041.png" alt="image-20191201131204041"></p>
+<h3 id="html5视频加速器"><a href="#html5视频加速器" class="headerlink" title="html5视频加速器"></a>html5视频加速器</h3><p>视频速度控制器`</p>
+<p>加速任何网站上的html5视频</p>
+<p><img src="https://raw.githubusercontent.com/w15997402070/images/main/note/image-20191201131428632.png" alt="image-20191201131428632"></p>
+]]></content>
+      <categories>
+        <category>工具</category>
+        <category>chrome插件</category>
+      </categories>
+      <tags>
+        <tag>视频加速</tag>
+        <tag>百度云视频加速</tag>
+        <tag>html视频加速</tag>
+      </tags>
+  </entry>
+</search>
